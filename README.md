@@ -17,7 +17,7 @@ Feel free to contribute.
 ### Misc.
 
 * As I cannot verify Android apps as I have no Android mobile, I need to trust your additions. A second person maintaining this list that owns an Android is welcome to join.
-* Links should point to the web sites of the software product or into the most common app store of the respective platform. 
+* Links should point to the web sites of the software product or into the most common app store of the respective platform and to a free app store if the app is free software. 
 
 ## iOS
 
