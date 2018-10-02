@@ -12,12 +12,12 @@ Feel free to contribute.
 
 * Fork the repo
 * Apply your changes
-* Send me a pull request
+* Send me a push request
 
 ### Misc.
 
 * As I cannot verify Android apps as I have no Android mobile, I need to trust your additions. A second person maintaining this list that owns an Android is welcome to join.
-* Links should point to the web sites of the software product or into the most common app store of the respective platform. 
+* Links should point to the web sites of the software product or into the most common app store of the respective platform and a free app store, like F-Droid, if the app is free software. 
 
 ## iOS
 
